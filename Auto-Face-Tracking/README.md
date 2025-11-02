@@ -49,7 +49,7 @@ It simulates an intelligent camera that keeps a speaker’s face centered in the
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Auto-Face-Tracking.git
+git clone https://github.com/k2albert123/Auto-Face-Tracking.git
 cd Auto-Face-Tracking
 ```
 
